@@ -11,6 +11,9 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 " Vundle Bundle manager. Great stuff.
+" setup vundle if not already
+" git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+" see vundle website for more details
 " https://github.com/gmarik/vundle
 "
 " If there is a slash in the bundle-name
