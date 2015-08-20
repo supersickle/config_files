@@ -36,6 +36,8 @@ Plugin 'Lokaltog/vim-easymotion'
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'tpope/vim-rails'
 Plugin 'powerline/powerline'
+" Faust syntax
+Plugin 'gmoe/vim-faust'
 
 Plugin 'taglist.vim'
 Plugin 'L9'
